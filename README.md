@@ -24,7 +24,7 @@ O projeto é organizado em duas pastas principais, cada uma com sua própria doc
 
 Este projeto foi desenvolvido como parte dos requisitos para a conclusão do evento NLW Agents da Rocketseat, resultando na emissão do seguinte certificado.
 
-![Certificado de Conclusão do NLW Agents](https://app.rocketseat.com.br/certificates/a8c5e661-3c2a-47c2-99a6-506573dec8ab)
+<img width="555" height="347" alt="image" src="https://github.com/user-attachments/assets/526ffd0c-0da6-4e9b-9054-8bbf7b9b4174" />
 
 ---
 
@@ -48,4 +48,4 @@ The project is organized into two main folders, each with its own detailed docum
 
 This project was developed as part of the requirements for completing the Rocketseat NLW Agents event, resulting in the issuance of the following certificate.
 
-![Certificate of Completion for NLW Agents](https://app.rocketseat.com.br/certificates/a8c5e661-3c2a-47c2-99a6-506573dec8ab)
+<img width="555" height="347" alt="image" src="https://github.com/user-attachments/assets/3d9545ae-aab6-4c40-9195-7cbfb470aacd" />
